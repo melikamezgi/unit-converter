@@ -12,7 +12,7 @@ A simple unit converter made with Python.
 ## How to Run
 
 ```bash
-unit_converter.py
+unit-converter.py
 ```
 
 ## Technologies
